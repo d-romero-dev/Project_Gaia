@@ -16,7 +16,7 @@
 >*Applying all the knowledge accired trough academic formation and sefl-teaching within a personal and constant desire of improvement and professionalization.*
 
 >[!TIP]
-><b><i>Access here:</i></b> 
+><b><i>Access here:</i></b> https://d-romero-dev.github.io/Project_Gaia/
 
 
 **Realease Notes:
