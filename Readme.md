@@ -7,7 +7,7 @@
 ><b><i>Access here:</i></b> https://d-romero-dev.github.io/Project_Gaia/
 
 
-**Realease Notes:
+>Realease Notes:
 1) Wireframe in FIGMA.
 2) Developed using Visual Studio Code.
 3) Lenguages used: HTML, CSS, JavaScript.
