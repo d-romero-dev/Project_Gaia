@@ -16,7 +16,7 @@
 >*Applying all the knowledge accired trough academic formation and sefl-teaching within a personal and constant desire of improvement and professionalization.*
 
 >[!TIP]
-><b><i>Access here:</i></b> https://d-romero-dev.github.io/Website_Project_1_V2_Revamped/
+><b><i>Access here:</i></b> 
 
 
 **Realease Notes:
@@ -26,8 +26,8 @@
 4) Icons from FontAwesome.com
 5) Hero Video edited with VEED.IO + soundtrack from Freesound.com + Artificial Intelligence.
 6) Speaker button: voice made with AI from Speechgen.io
-7) Color used: HTML color code #34A56F, Earth Green color:
-Color name: Earth Green
-RGB: 52, 165, 111
+7) Color used:
+   * HTML color code #34A56F // Earth Green //
+RGB: 52, 165, 111. //
 HSL: 151.33deg, 52.07%, 42.55%
-8) 
+  
